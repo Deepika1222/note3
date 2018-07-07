@@ -4,6 +4,7 @@
     justify-content: center;
   }
 .childOne{
+  background-color: lightgreen;
   width:30%;
   padding:2%;
   border:1px solid skyblue;
@@ -22,6 +23,7 @@ img{
 
 }
 .childTwo{
+  background-color:darkblue;
   width:70%;
   padding:2%;
   border:1px solid #ddd;
@@ -29,6 +31,9 @@ img{
   text-align:center;
   box-shadow:3px 3px 3px green;
   border-radius: 20px;
+}
+body{
+  background-color:purple;
 }
 /*for small screen mobiles*/
 @media screen and (min-device-width:320px) and (max-device-width:480px){

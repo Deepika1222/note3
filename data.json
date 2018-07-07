@@ -3,5 +3,44 @@
     "name":"Deepika",
     "label":"IT-3rdyear",
     "email":"deepikadarimadugu@gmail.com"
+  },
+  "career":{
+   "info":"To pursue a challenging career and be a part of progressive organisationnthat give a scope to enhance my knowledge and utilizing my skilld towards the growth of my organisation"
+
+ },
+  "EducationalQalification":[
+    {
+       "Degree":"B.Tech",
+      "Institute" :"pvp siddartha engineering college",
+      "Data":["2016-2020",95]
+    },
+  {
+  "Degree":"Intermediate",
+ "Institute":"Sri chaithanya Jr college",
+ "Data":["2014-2016",96]
+},
+{
+  "Degree":"SSc",
+  "Institute":"Bhashyam EM high school",
+  "Data":["2010-2016",96]
+}
+],
+"skills":[
+  {
+    "title":"Languages",
+    "content":["c","python","java","c#","c++","php","r"]
+  },
+  {
+    "title":"database",
+    "content":["sql","mongoDB","mysql"]
+  },
+  {
+    "title":"web technilogies",
+    "content":["html","css","javascript"]
+  },
+  {
+    "title":"fremeworks",
+    "content":["Django","codeIgnitor"]
   }
+]
 }
