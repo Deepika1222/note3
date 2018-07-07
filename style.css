@@ -6,7 +6,7 @@
 .childOne{
   width:30%;
   padding:2%;
-  border:1px solid #ddd;
+  border:1px solid skyblue;
   margin:2%;
   box-shadow:3px 3px 3px blue;
   border-radius: 20px;
@@ -79,7 +79,7 @@ body{
 .childOne{
   width: 50%;
   padding:2%;
-  border:1px solid #ddd;
+  border:1px solid black;
   margin:2%;
   box-shadow:3px 3px 3px blue;
   border-radius: 20px;
@@ -99,6 +99,9 @@ img{
   margin:2%;
   box-shadow:3px 3px 3px green;
   border-radius: 20px;
+}
+a{
+  word-wrap: break-word;
 }
 }
 @media screen and (min-device-width:769px) and (max-device-width:1024px){
